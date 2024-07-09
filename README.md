@@ -1,23 +1,8 @@
-![Thumbnail GitHub](./thumb.png)
-
 # Flutter: Gerenciamento de estados complexos
-
-Esse curso de Flutter vai te ensinar a: 
-
--> O que é estado e gerenciadores de estados
-
--> Como instalar e utilizar o Provider como gerenciador de estados
-
--> Formular estados seguindo o conceito de single source of truth
-
--> Como organizar models que utilizam os conceitos do `change notifier`
-
--> Criar Widgets focados em estado e passagem de dados
-
 
 ## 🔨 Projeto: Client Control
 
-O projeto do curso consiste em um gerenciamento de clientes de maneira que podemos cadastrar clientes, tipos de clientes e vincular os tipos cadastrados com os clientes utilizando abordagens de gerenciamento de estados.
+O projeto consiste em um gerenciamento de clientes de maneira que podemos cadastrar clientes, tipos de clientes e vincular os tipos cadastrados com os clientes utilizando abordagens de gerenciamento de estados.
 
 ![](./screenshot.png)
 
@@ -43,10 +28,4 @@ O projeto do curso consiste em um gerenciamento de clientes de maneira que podem
 - Ter uma IDE, que pode ser o  [Android Studio](https://developer.android.com/) instalado na sua máquina
 - Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
 
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
-
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
 
